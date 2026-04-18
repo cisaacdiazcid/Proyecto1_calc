@@ -8,7 +8,7 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/ascia0309/Proyecto1_calc.git
+    git clone https://github.com/cisaacdiazcid/Proyecto1_calc.git
     ```
 2. Abre el proyecto en Visual Studio:
     ```sh
